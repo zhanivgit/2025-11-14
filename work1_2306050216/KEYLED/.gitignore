@@ -1,0 +1,27 @@
+# STM32CubeIDE/Eclipse project files
+.cproject
+.mxproject
+.project
+.launch
+.settings/
+
+# Build artifacts
+Debug/
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+
+# CubeMX generated files (optional, keep if you want to track changes to the .ioc file)
+# *.ioc
+
+# Other common ignored files
+*.bak
+*.swp
+*~
